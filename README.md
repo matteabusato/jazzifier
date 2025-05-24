@@ -8,3 +8,8 @@ The process begins with curating and augmenting a diverse MIDI dataset to ensure
 We evaluate outputs using both quantitative metrics—such as syncopation, harmonic richness, and improvisational variation—and qualitative listening tests.
 
 The dataset can be found at the following link: https://zenodo.org/records/8354955.
+
+
+## To simulate run
+
+pip install -r requirements.txt
